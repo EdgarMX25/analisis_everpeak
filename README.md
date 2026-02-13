@@ -26,6 +26,6 @@ El dataset `everpeak_retail` incluye 2,000 órdenes de clientes con valores falt
 - Analizar comportamientos, distribuciones y outliers
 - Generar insights para el equipo de Estrategia e Integración de EverPeak
 
-## <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/fb264599-cbab-400d-9c73-346afe879027" /> Herramientas Utilizadas
+## 🛠️ Herramientas Utilizadas
 - Codigo en Python, usando libreria pandas
 - Generacion de graficos con matplotlib y seaborn
